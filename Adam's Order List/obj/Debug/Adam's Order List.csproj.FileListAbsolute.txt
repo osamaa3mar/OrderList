@@ -1,0 +1,33 @@
+C:\Users\Someone\source\repos\Adam's Order List\bin\Debug\Adam's Order List.exe.config
+C:\Users\Someone\source\repos\Adam's Order List\bin\Debug\Adam's Order List.exe
+C:\Users\Someone\source\repos\Adam's Order List\bin\Debug\Adam's Order List.pdb
+C:\Users\Someone\source\repos\Adam's Order List\obj\Debug\Adam's Order List.csproj.AssemblyReference.cache
+C:\Users\Someone\source\repos\Adam's Order List\obj\Debug\Adam's Order List.csproj.SuggestedBindingRedirects.cache
+C:\Users\Someone\source\repos\Adam's Order List\obj\Debug\Adam_s_Order_List.Form1.resources
+C:\Users\Someone\source\repos\Adam's Order List\obj\Debug\Adam_s_Order_List.Properties.Resources.resources
+C:\Users\Someone\source\repos\Adam's Order List\obj\Debug\Adam's Order List.csproj.GenerateResource.cache
+C:\Users\Someone\source\repos\Adam's Order List\obj\Debug\Adam's Order List.csproj.CoreCompileInputs.cache
+C:\Users\Someone\source\repos\Adam's Order List\obj\Debug\Adam's Order List.exe
+C:\Users\Someone\source\repos\Adam's Order List\obj\Debug\Adam's Order List.pdb
+C:\Users\ayhab\Desktop\Adam's Order List\bin\Debug\Adam's Order List.exe.config
+C:\Users\ayhab\Desktop\Adam's Order List\bin\Debug\Adam's Order List.exe
+C:\Users\ayhab\Desktop\Adam's Order List\bin\Debug\Adam's Order List.pdb
+C:\Users\ayhab\Desktop\Adam's Order List\obj\Debug\Adam's Order List.csproj.AssemblyReference.cache
+C:\Users\ayhab\Desktop\Adam's Order List\obj\Debug\Adam's Order List.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayhab\Desktop\Adam's Order List\obj\Debug\Adam_s_Order_List.Form1.resources
+C:\Users\ayhab\Desktop\Adam's Order List\obj\Debug\Adam_s_Order_List.Properties.Resources.resources
+C:\Users\ayhab\Desktop\Adam's Order List\obj\Debug\Adam's Order List.csproj.GenerateResource.cache
+C:\Users\ayhab\Desktop\Adam's Order List\obj\Debug\Adam's Order List.csproj.CoreCompileInputs.cache
+C:\Users\ayhab\Desktop\Adam's Order List\obj\Debug\Adam's Order List.exe
+C:\Users\ayhab\Desktop\Adam's Order List\obj\Debug\Adam's Order List.pdb
+C:\Users\ayhab\source\repos\Adam's Order List\bin\Debug\Adam's Order List.exe.config
+C:\Users\ayhab\source\repos\Adam's Order List\bin\Debug\Adam's Order List.exe
+C:\Users\ayhab\source\repos\Adam's Order List\bin\Debug\Adam's Order List.pdb
+C:\Users\ayhab\source\repos\Adam's Order List\obj\Debug\Adam's Order List.csproj.AssemblyReference.cache
+C:\Users\ayhab\source\repos\Adam's Order List\obj\Debug\Adam's Order List.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayhab\source\repos\Adam's Order List\obj\Debug\Adam_s_Order_List.Form1.resources
+C:\Users\ayhab\source\repos\Adam's Order List\obj\Debug\Adam_s_Order_List.Properties.Resources.resources
+C:\Users\ayhab\source\repos\Adam's Order List\obj\Debug\Adam's Order List.csproj.GenerateResource.cache
+C:\Users\ayhab\source\repos\Adam's Order List\obj\Debug\Adam's Order List.csproj.CoreCompileInputs.cache
+C:\Users\ayhab\source\repos\Adam's Order List\obj\Debug\Adam's Order List.exe
+C:\Users\ayhab\source\repos\Adam's Order List\obj\Debug\Adam's Order List.pdb
